@@ -1,4 +1,4 @@
-# bmi_app
+# BMI App
 
 A new Flutter project.
 
@@ -23,4 +23,4 @@ samples, guidance on mobile development, and a full API reference.
 <br><br>
 <h2>Third Screen (You are overweight screen)</h2>
 <img src="https://user-images.githubusercontent.com/121964002/215272356-fb2afbea-dbe1-4440-9f44-dc102d82fc23.jpeg" width="auto" height="500">
-<br><br>
+<br>
